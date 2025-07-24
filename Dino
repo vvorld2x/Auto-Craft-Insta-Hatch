@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/vvorld2x/02d703dd11aaa9d31ad295b293623af6/raw/Dino%20Insta%20Auto%20Craft"))()
+-- put in auto exec
