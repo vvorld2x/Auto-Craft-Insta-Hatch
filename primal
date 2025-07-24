@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/vvorld2x/4550452a8e894262eea5f0137c901eb8/raw/Primal%20Insta%20Auto%20Craft"))()
+--Put in auto exec
